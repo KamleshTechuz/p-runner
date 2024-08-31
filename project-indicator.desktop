@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Project Indicator
+Exec=/usr/bin/python3 /home/kamlesh/p-runner/indicator_launcher.py start
+Icon=/home/kamlesh/p-runner/launcher.png
+Comment=Launch Project Indicator
+Terminal=false
+Categories=Development;
